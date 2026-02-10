@@ -2,7 +2,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KeitaShimura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KeitaShimura&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ---
 
