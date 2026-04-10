@@ -33,19 +33,6 @@ func main() {
 
 ---
 
-## Tech Stack
-
-| Category           | Tools              |
-| ------------------ | ------------------ |
-| **Language**       | Go                 |
-| **API**            | gRPC, REST         |
-| **Infrastructure** | Kubernetes, Docker |
-| **Cloud**          | GCP                |
-| **Data Store**     | PostgreSQL         |
-| **CI/CD**          | GitHub Actions     |
-
----
-
 ## GitHub Stats
 
 <div align="center">
