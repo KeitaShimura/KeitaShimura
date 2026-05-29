@@ -9,10 +9,11 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)](https://grpc.io)
 [![REST](https://img.shields.io/badge/REST-6e6e6e?style=for-the-badge)](https://restfulapi.net)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+
 [![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 </div>
@@ -35,7 +36,11 @@ func main() {
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -65,5 +70,7 @@ func main() {
 [![Profile Views](https://komarev.com/ghpvc/?username=KeitaShimura&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KeitaShimura)
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:00ADD8&height=80&section=footer" />
